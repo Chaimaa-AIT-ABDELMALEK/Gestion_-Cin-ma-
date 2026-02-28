@@ -25,7 +25,7 @@ Application Java Swing permettant la gestion :
     * MySQL Workbench
     * Inno Setup
 ---
- 🎯Structure du projet :
+ ## 🎯Structure du projet :
 
  
  <img width="677" height="842" alt="image" src="https://github.com/user-attachments/assets/099db07f-9c0b-44c8-afae-97a1b355c31d" />
@@ -36,7 +36,6 @@ Application Java Swing permettant la gestion :
 
 <img width="943" height="863" alt="image" src="https://github.com/user-attachments/assets/59c6bda6-61f3-420c-bd0b-186867bc6356" />
 ---
-
 ## Diagramme Use Case:
 
 
