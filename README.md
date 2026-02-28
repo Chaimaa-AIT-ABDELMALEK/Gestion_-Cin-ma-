@@ -1,7 +1,5 @@
 ## 📌 Application de Gestion de Cinéma :
-
 ---
-
 ## 👩‍💻 Réalisé par :
 
 
@@ -15,6 +13,7 @@ Application Java Swing permettant la gestion :
 - des Salles
 - des Utilisateurs
 - avec opérations CRUD, recherche et graphique.
+---
 ## 🛠️ Technologies utilisées
 
 
@@ -43,5 +42,7 @@ Application Java Swing permettant la gestion :
 
 <img width="1399" height="858" alt="image" src="https://github.com/user-attachments/assets/b559fc7b-7a39-4351-a712-7b8ddc54ddff" />
 
-
- 
+## Identifiants de connexion:
+-->Login : chaimaazakia
+--> Mot de passe : cz123
+## 🎥 Démonstration vidéo:
