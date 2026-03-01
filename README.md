@@ -2,8 +2,12 @@
 ---
 ## 👩‍💻 Réalisé par :
 
+Chaimaa Ait Abdelmalek :https://github.com/Chaimaa-AIT-ABDELMALEK/Gestion_-Cin-ma-.git
 
-Zakia Azizi & Chaimaa Ait Abdelmalek
+&
+
+Zakia Azizi : https://github.com/zakiaazizi-17/Gestion_-Cin-ma-
+
 ---
 ## 🎯 Objectif du projet:
 
